@@ -1,2 +1,2 @@
 # Portfolio
-basic Portfolio website using HTML and CSS
+Basic Portfolio website using HTML and CSS
